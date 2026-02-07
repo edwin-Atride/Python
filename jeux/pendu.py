@@ -1,6 +1,6 @@
 import random
 
-mot = ["yo", "moi", "voiture","janvier","rigoler","chintok","renoi","bouche"]
+mot = ["yo", "moi", "voiture","janvier","rigoler","bouche"]
 choix = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m","n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"]
 
 pendu = (random.choice(mot))
